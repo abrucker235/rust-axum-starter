@@ -739,7 +739,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-starter"
+name = "rust-axum-starter"
 version = "0.1.0"
 dependencies = [
  "axum",
